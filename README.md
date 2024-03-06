@@ -1,4 +1,4 @@
-## Critaire d'evaluation :
+## Critaire d'évaluation :
 
 - [ ] Respect des consignes
 - [ ] Fonctionnalité de l'application
