@@ -36,7 +36,7 @@
                     exit();
                 }
 
-                // Affichage des livres dans le tableau avec des boutons Modifier
+                // Affichage des livres dans le tableau avec des boutons Modifier.
                 foreach ($books as $book) {
                     echo "<tr>";
                     echo "<td>".$book['title']."</td>";
